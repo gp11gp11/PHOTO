@@ -38,7 +38,7 @@ Clone the project
 
 ```
 $ git clone 
-$ cd EduChain
+$ cd Photofy
 ```
 ### Setting up a local Blockchain
 Install dependencies
